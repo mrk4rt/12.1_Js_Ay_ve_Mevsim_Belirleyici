@@ -1,0 +1,2 @@
+# 12.1_Js_Ay_ve_Mevsim_Belirleyici
+12.1_Js_Ay_ve_Mevsim_Belirleyici
